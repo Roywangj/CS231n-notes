@@ -5,7 +5,7 @@ link:http://cs231n.stanford.edu/2017/
 
 This Note contains: 
 
-1.Powerpoints for lectures
+1.Course materials
 
 2.Notes about lectures 
 
