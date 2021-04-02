@@ -7,8 +7,8 @@ This Note contains:
 
 1.Powerpoints for lectures
 
-2.notes about lectures 
+2.Notes about lectures 
 
 3.Assignments
 
-4.notes about Assignments
+4.Notes about Assignments
