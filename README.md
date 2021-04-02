@@ -7,8 +7,8 @@ This Note contains:
 
 1.Course materials
 
-2.Notes about lectures 
+2.Notes for lectures 
 
 3.Assignments
 
-4.Notes about Assignments
+4.Notes for Assignments
