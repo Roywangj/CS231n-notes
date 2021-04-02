@@ -5,8 +5,10 @@ link:http://cs231n.stanford.edu/2017/
 
 This Note contains: 
 
-1.notes about lectures 
+1.Powerpoints for lectures
 
-2.Assignments
+2.notes about lectures 
 
-3.notes about Assignments
+3.Assignments
+
+4.notes about Assignments
