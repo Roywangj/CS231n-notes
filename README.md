@@ -4,6 +4,7 @@ This repository is aimed to take notes after watching the course CS231n (2017 Sp
 link:http://cs231n.stanford.edu/2017/
 
 This Note contains: 
+
 1.notes about lectures 
 
 2.Assignments
